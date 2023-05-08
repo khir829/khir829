@@ -1,10 +1,10 @@
 Hi!👋 My name is Kai Hirafune
 ===
 
-Aspiring Software Engineer
+Software Engineering student
 ---
   
-I am a second year software engineering student studying at the University of Auckland.  
+I am a third year software engineering student studying at the University of Auckland.  
 You can contact me at [kai.hirafune@outlook.com](mailto:kai.hirafune@outlook.com)
 ## Skills
 
